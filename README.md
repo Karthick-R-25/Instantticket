@@ -62,6 +62,8 @@ DATABASES = {
    python manage.py makemigrations
    python manage.py migrate
    python manage.py runserver
+
+
 4.Also have Amazon EC2 Instance contact I can start live server mailid:karthickr2429@gmailcom
 
 
