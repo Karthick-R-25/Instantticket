@@ -36,7 +36,7 @@ This is a **Real-Time Ticket Booking System** for local and overcrowded Buses  ,
    ```bash
    git clone https://github.com/Karthick-R-25/Realtime-Ticket-Booking.git
 ### **Setup and Running the Project**
-2.### MySQL Database Configuration in Django
+2. MySQL Database Configuration in Django
 
 To configure your MySQL database in Django, update the `DATABASES` setting in your `settings.py` file like the following:
 
@@ -62,5 +62,12 @@ DATABASES = {
    python manage.py makemigrations
    python manage.py migrate
    python manage.py runserver
+4.Also have Amazon EC2 Instance contact I can start live server mailid:karthickr2429@gmailcom
+
+
+
+
+
+
 
 
