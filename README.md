@@ -67,7 +67,8 @@ DATABASES = {
 4.Also have Amazon EC2 Instance contact I can start live server mailid:karthickr2429@gmailcom
 
 
-
+5.Preview Video
+  https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22django%20final%20video.mp4%22%2C%22type%22%3A%22video%2Fmp4%22%2C%22signedurl_expire%22%3A%222028-04-21T04%3A03%3A47.311Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fff9d7318389f45bc%2Fdjango%20final%20video.mp4%3FExpires%3D1839902627%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Dy0gW0Wm8joG0CSnB2oc5f2kbVvdRfkdlDRQ5yIoqMR7XV8D5BYRAsemXP52Lw57YXB1l-xJbOWJYZxmnLTks9zatAgpI28Rt7WVA8UaI~ZZoy6VNUn~G3SNSNbH9zat6nxZuMm2u70YgaOUfYkBwH53cvfTE7GoWWelT-abudTggQ4QMJQAKK-WAv3w4eSqZy6E-lEvcjXeC6yqU3ld2AElNs~YdD9RwhVPOeXV8p1PgDgZaXPnJvyfSxzTDrGUZyt~KE4rWA9oaPImliZeWXNQg8O8D0uhUBgL9PNINIfL~fzEJ3uy5jW1bYFKjas41Cm-MWngFkaIUR16Gughtfg__%22%7D
 
 
 
