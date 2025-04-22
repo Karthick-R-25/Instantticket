@@ -27,7 +27,7 @@ This is a **Real-Time Ticket Booking System** for local and overcrowded Buses  ,
 
 ### **Technologies Used:**
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Python, Django, REST API, PostgreSQL, SQL
+- **Backend:** Python, Django, REST API, MYSQL, SQL
 - **Security:** CSRF Token, User Authentication
 
 ### **Setup and Installation:**
